@@ -4,6 +4,7 @@ msjnc -- MadScientist JNC Session Manager
 This script manages the Juniper Network Connect VPN service.  It is a
 replacement for the HTML/Java based toolkit provided by Juniper.
 
+http://mad-scientist.us/juniper.html has more background & doc.
 
 Installation
 ------------
